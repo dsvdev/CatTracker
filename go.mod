@@ -7,7 +7,6 @@ toolchain go1.23.9
 require (
 	github.com/confluentinc/confluent-kafka-go v1.9.2
 	github.com/gin-gonic/gin v1.10.1
-	github.com/go-playground/validator/v10 v10.20.0
 	github.com/google/uuid v1.3.0
 	github.com/jackc/pgx/v5 v5.7.5
 )
